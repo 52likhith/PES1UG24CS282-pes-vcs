@@ -1,20 +1,29 @@
-# Compiled binaries
+
+
+# Build artifacts
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.a
+*.out
 pes
 test_objects
 test_tree
 
-# Object files
-*.o
-*.obsidian
-
-# PES repository (created during testing)
-.pes/
-
-# Editor files
-*.swp
-*.swo
-*~
+# Editor and OS files
 .vscode/
-.idea/
+*.swp
+*~
+.DS_Store
+Thumbs.db
 
+# Logs and temporary
+*.log
+build/
+dist/
 
+# Python cache
+__pycache__/
+*.pyc
