@@ -9,20 +9,20 @@
 ---
 ## Screenshots
 ### Phase 1
-- **Screenshot 1A:** ![Screenshot 1A](screenshots/1A.png)
-- **Screenshot 1B:** ![Screenshot 1B](screenshots/1B.png)
+- **Screenshot 1A:** ![Screenshot 1A](screenshots/1A.jpeg)
+- **Screenshot 1B:** ![Screenshot 1B](screenshots/1B.jpeg)
 
 ### Phase 2
-- **Screenshot 2A:** ![Screenshot 2A](screenshots/2A.png)
-- **Screenshot 2B:** ![Screenshot 2B](screenshots/2B.png)
+- **Screenshot 2A:** ![Screenshot 2A](screenshots/2A.jpeg)
+- **Screenshot 2B:** ![Screenshot 2B](screenshots/2B.jpeg)
 
 ### Phase 3
-- **Screenshot 3A:** ![Screenshot 3A](screenshots/3A.png)
-- **Screenshot 3B:** ![Screenshot 3B](screenshots/3B.png)
+- **Screenshot 3A:** ![Screenshot 3A](screenshots/3A.jpeg)
+- **Screenshot 3B:** ![Screenshot 3B](screenshots/3B.jpeg)
 
 ### Phase 4 / Integration
-- **Screenshot 4A:** ![Screenshot 4A](screenshots/4A.png)
-- **Screenshot 4B:** ![Screenshot 4B](screenshots/4B.png)
+- **Screenshot 4A:** ![Screenshot 4A](screenshots/4A.jpeg)
+- **Screenshot 4B:** ![Screenshot 4B](screenshots/4B.jpeg)
 - **Screenshot 4C1:** ![Screenshot 4C1](screenshots/4C1.png)
 -  ![Screenshot 4C2](screenshots/4C2.png)
 
